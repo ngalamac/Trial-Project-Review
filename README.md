@@ -1,3 +1,3 @@
 This project was a collaborative trial between :
-Ngala Mac Falen and
+Ngala Mac and
 Frederick Oukosh
